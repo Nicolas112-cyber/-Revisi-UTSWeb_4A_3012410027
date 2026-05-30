@@ -54,5 +54,17 @@
         </div>
     </div>
 
+    <div class="text-center py-5">
+        <div class="container">
+            <h2>Tim Solid kita</h2>
+            <br>
+            <h4>Mas Faisal JMK</h4>
+            <p>Peracik kopi susu yang kami datangkan dari Jomokerto.</p>
+            
+            <h4>Mbak Nisa'</h4>
+            <p>Spesialisasi penarik pelanggan serta jago membuat indomie.</p>
+        </div>
+    </div>
+
 </body>
 </html>
