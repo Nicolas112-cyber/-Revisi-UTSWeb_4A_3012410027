@@ -105,3 +105,20 @@ footer p {
     background-color: #785aac;
     color: #ffffff;
 }
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f4ffe6;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #785aac; 
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #5C4033; 
+}
