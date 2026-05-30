@@ -7,11 +7,18 @@ h1, h2 {
     font-weight: bold;
     color: #2b1206; 
 }
-
+    
 h4 {
     font-weight: bold;
     color: #0a310a; 
+    transition: transform 0.3s ease, color 0.3s ease; /* Persiapan transisi mulus */
 }
+
+h4:hover {
+    transform: translateX(10px); 
+    color: #785aac; 
+}
+
 
 img {
     border-radius: 20px;
