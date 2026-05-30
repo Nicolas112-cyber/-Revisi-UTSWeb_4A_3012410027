@@ -66,5 +66,16 @@
         </div>
     </div>
 
+    <div class="bg-light text-center py-5">
+        <div class="container">
+            <h2>Hubungi Kami</h2>
+            <p>Keluh kesah mu cees.Biar kami persiapkan lebih baik untukmu. Isi form di bawah ya cees.</p>
+            <br>
+            <input type="text" class="form-control mb-3" placeholder="Masukkan Inisialmu,contoh:(Rendy Brembo)">
+            <textarea class="form-control mb-3" rows="3" placeholder="Tulis Pesan Kamu Di Sini"></textarea>
+            <button class="btn btn-primary">Kirim Pesan</button>
+        </div>
+    </div>
+
 </body>
 </html>
