@@ -100,3 +100,8 @@ footer p {
     opacity: 0.8;
     margin-bottom: 0;
 }
+
+::selection {
+    background-color: #785aac;
+    color: #ffffff;
+}
