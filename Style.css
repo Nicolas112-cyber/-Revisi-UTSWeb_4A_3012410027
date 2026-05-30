@@ -78,3 +78,8 @@ img:hover {
     border-color: #785aac;
     box-shadow: 0 0 0 0.25rem rgba(120, 90, 172, 0.25);
 }
+
+.navbar-brand:hover, .nav-link:hover {
+    color: #3b0707 !important; 
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
