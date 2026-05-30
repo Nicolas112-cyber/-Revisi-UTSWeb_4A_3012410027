@@ -6,7 +6,6 @@
 </head>
 <body>
 
-
     <nav class="navbar navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand" href="#">SINKOSTAN CAFE</a>
@@ -17,11 +16,14 @@
         <div class="container">
             <h1>Selamat Datang di SINKOSTAN CAFE</h1>
             <p>Tempat Paling jos jis untuk menemani nge-chillmu.</p>
-            
-            <!-- Tulis nama file logomu di dalam tanda kutip src="" di bawah ini -->
-            <!-- Contoh: src="logo.png" -->
             <img src="Sinkos’tan2.jpg" alt="Logo Kafe Saya" width="300">
-            
+        </div>
+    </div>
+
+    <div class="bg-light text-center py-5">
+        <div class="container">
+            <h2>Tentang Kami</h2>
+            <p>Kafe ini dibangun karena tau siklus keuangan mahasiswa.Aman ajalah kawan jangan bawa uang banyak-banyak disini.Tapi tetap kami sediakan yang terbaik untukmu</p>
         </div>
     </div>
 
