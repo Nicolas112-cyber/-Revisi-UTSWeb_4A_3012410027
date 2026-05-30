@@ -84,3 +84,7 @@ h2 {
     background-color: #f4ffe6; 
     border: 1px solid #785aac;
 }
+
+#menu p, #tim p {
+    margin-bottom: 2.5rem;
+}
