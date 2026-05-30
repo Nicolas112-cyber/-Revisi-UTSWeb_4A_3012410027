@@ -77,5 +77,11 @@
         </div>
     </div>
 
+    <footer class="text-center py-4 bg-dark text-white">
+        <div class="container">
+            <p>&copy; 2026 SINKOSTAN CAFE. Tempat nongkrong Pahlawan Keuanganmu.</p>
+        </div>
+    </footer>
+
 </body>
 </html>
