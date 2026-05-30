@@ -42,5 +42,17 @@
         </div>
     </div>
 
+    <div class="bg-light text-center py-5">
+        <div class="container">
+            <h2>Fasilitas Kafe</h2>
+            <br>
+            <h4>Wifi Super Cepat</h4>
+            <p>Penunjang tugas mu cees.Kami kasi yang terkencang</p>
+            
+            <h4>Colokan Listrik Tiap Meja</h4>
+            <p>Kami pastikan laptop mu selalu teri-isi cees.</p>
+        </div>
+    </div>
+
 </body>
 </html>
