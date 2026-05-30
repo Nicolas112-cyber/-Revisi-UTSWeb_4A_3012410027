@@ -35,3 +35,41 @@ body {
     background-color: #a0d368; 
 }
 
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #a0d368; 
+}
+
+h1, h2 {
+    font-weight: bold;
+    color: #2b1206; 
+}
+
+h4 {
+    font-weight: bold;
+    color: #0a310a; 
+}
+
+img {
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+.btn-primary {
+    background-color: #785aac;
+    border-color: #785cb9;
+}
+
+.btn-primary:hover {
+    background-color: #5C4033;
+    border-color: #5C4033;
+}
+
+.bg-dark {
+    background-color: #3E2723 !important;
+}
