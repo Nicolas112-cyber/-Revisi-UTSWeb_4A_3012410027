@@ -18,8 +18,8 @@ img {
 }
 
 .btn-primary {
-    background-color: #006400;
-    border-color: #006400;
+    background-color: #785aac;
+    border-color: #785cb9;
 }
 
 .btn-primary:hover {
@@ -29,3 +29,9 @@ img {
 .bg-dark {
     background-color: #3E2723 !important;
 }
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #a0d368; 
+}
+
