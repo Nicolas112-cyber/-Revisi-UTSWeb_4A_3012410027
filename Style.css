@@ -72,3 +72,10 @@ p {
 .navbar {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
 }
+
+h2 {
+    text-decoration: underline;
+    text-decoration-color: #000000;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 8px;
+}
