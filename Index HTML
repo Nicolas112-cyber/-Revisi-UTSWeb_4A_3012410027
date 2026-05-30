@@ -23,7 +23,22 @@
     <div class="bg-light text-center py-5">
         <div class="container">
             <h2>Tentang Kami</h2>
-            <p>Kafe ini dibangun karena tau siklus keuangan mahasiswa.Aman ajalah kawan jangan bawa uang banyak-banyak disini.Tapi tetap kami sediakan yang terbaik untukmu</p>
+            <p>Kafe ini dibangun khusus untuk mahasiswa yang butuh tempat nongkrong murah meriah. Harga pas di kantong, colokan banyak, dan wifi super kencang buat nugas atau sekadar santai.</p>
+        </div>
+    </div>
+
+    <div class="text-center py-5">
+        <div class="container">
+            <h2>Menu Best seller cees</h2>
+            <br>
+            <h4>Kopi susu</h4>
+            <p>Rp 6.000</p>
+            
+            <h4>Indomie Rebus Telur </h4>
+            <p>Rp 8.000</p>
+            
+            <h4>Es Teh Manis Jumbo</h4>
+            <p>Rp 5.000</p>
         </div>
     </div>
 
