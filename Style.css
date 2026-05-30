@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1, h2 {
+    font-weight: bold;
+    color: #5C4033; 
+}
+h4 {
+    font-weight: bold;
+    color: #006400; 
+}
