@@ -5,15 +5,25 @@ body {
 
 h1, h2 {
     font-weight: bold;
-    color: #5C4033; 
+    color: #2b1206; 
 }
 
 h4 {
     font-weight: bold;
-    color: #006400; 
+    color: #0a310a; 
 }
 
 img {
     border-radius: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary {
+    background-color: #006400;
+    border-color: #006400;
+}
+
+.btn-primary:hover {
+    background-color: #5C4033;
+    border-color: #5C4033;
 }
