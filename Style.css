@@ -69,3 +69,6 @@ p {
     font-size: 1.15rem;
     color: #2b1206; 
 }
+.navbar {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
